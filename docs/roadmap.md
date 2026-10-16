@@ -1,16 +1,17 @@
 ---
-title: Lộ trình tiếng Anh từ Zero đến IELTS 6.0
+title: Lộ trình tiếng Anh từ Zero đến thành thạo trong công việc
 type: roadmap
-level: A1 -> B1+/B2 (IELTS 6.0)
+level: A1 -> B2-work
 created: 2026-10-15
+updated: 2026-10-16
 status: active
 ---
 
-# Lộ trình tiếng Anh từ Zero đến IELTS 6.0 (khoảng 12 tháng)
+# Lộ trình tiếng Anh từ Zero đến thành thạo trong công việc (khoảng 12 tháng)
 
-> **Lưu ý:** bản này tính cho 12 giờ học mỗi tuần. Thực tế có khoảng 7 giờ mỗi tuần, tự học, điểm yếu là Nghe/Nói, nên mốc thời gian thực tế (khoảng 20 tháng) và lịch học nằm trong [schedule.md](schedule.md).
+> **Lưu ý:** bản này tính cho 12 giờ học mỗi tuần. Thực tế có khoảng 7 giờ mỗi tuần, tự học, nên mốc thời gian thực tế (khoảng 20 tháng), lịch học và cột mốc test nằm trong [schedule.md](schedule.md). Từ 2026-10-16: mục tiêu là **tiếng Anh làm việc thành thạo (CEFR B2 vững, đủ 4 kỹ năng đồng đều)**, không còn nhắm IELTS 6.0. Nếu mâu thuẫn thì theo `schedule.md`.
 
-**Giả định:** học khoảng 2 giờ mỗi ngày, 6 ngày mỗi tuần, tổng khoảng 600–700 giờ. IELTS 6.0 tương đương CEFR B1+ đến B2 thấp. Nếu chỉ học 1 giờ mỗi ngày, nhân đôi thời gian (khoảng 18–24 tháng).
+**Giả định:** học khoảng 2 giờ mỗi ngày, 6 ngày mỗi tuần, tổng khoảng 600–700 giờ. Thành thạo trong công việc ở đây là CEFR B2 vững (tham chiếu: IELTS 6.0 ≈ B2 thấp). Nếu chỉ học 1 giờ mỗi ngày, nhân đôi thời gian (khoảng 18–24 tháng).
 
 ## Tổng quan 4 giai đoạn
 
@@ -19,7 +20,7 @@ status: active
 | 0. Nền tảng | Tháng 1–2 | A1 | Phát âm chuẩn, 800 từ, câu đơn giản |
 | 1. Sơ cấp | Tháng 3–5 | A2 | 1.800 từ, giao tiếp tình huống quen thuộc |
 | 2. Trung cấp | Tháng 6–8 | B1 | 3.000 từ, nói và viết đoạn ngắn mạch lạc |
-| 3. Luyện thi | Tháng 9–12 | B1+ → IELTS 6.0 | 4.000–4.500 từ, làm quen format đề, mock test |
+| 3. Tiếng Anh công việc | Tháng 9–12 | B1+ → B2 vững | 4.500 từ, họp, thuyết trình, email, báo cáo |
 
 ## Giai đoạn 0: Nền tảng (tháng 1–2)
 
@@ -44,54 +45,40 @@ status: active
 ## Giai đoạn 2: Trung cấp B1 (tháng 6–8)
 
 - **Ngữ pháp:** các thì hoàn thành, bị động, câu điều kiện loại 2 và 3, mệnh đề quan hệ, câu tường thuật, gerund/infinitive, liên từ nối ý.
-- **Từ vựng:** Academic Word List sublist 1–3, các chủ đề IELTS: education, environment, technology, health, work.
+- **Từ vựng:** Academic Word List sublist 1–3, chủ đề công việc: meetings, emails, projects, deadlines, technology, health, workplace.
 - **Nghe:** TED-Ed, *BBC Learning English*, YouTube có phụ đề. Tập note-taking.
 - **Đọc:** *Breaking News English*, *Newsela*, *VOA Learning English*. Tập skimming và scanning.
-- **Nói:** trả lời câu hỏi kiểu IELTS Speaking Part 1, mỗi câu 3–4 câu có lý do và ví dụ. Gia sư 2–3 buổi mỗi tuần.
-- **Viết:** đoạn văn 100–150 từ (topic sentence → explanation → example).
+- **Nói:** trả lời câu hỏi quen thuộc (bản thân, công việc, sở thích), mỗi câu 3–4 câu có lý do và ví dụ; nói 2 phút về công việc của bạn. Gia sư 2–3 buổi mỗi tuần.
+- **Viết:** đoạn văn 100–150 từ (topic sentence → explanation → example); email ngắn công việc (3–5 câu, từ tháng 7).
 - **Giáo trình:** *Grammar in Use – Intermediate*, *Vocabulary in Use – Intermediate*, *Cambridge Complete PET / Preliminary*.
-- **Mốc kiểm tra:** *Cambridge B1 Preliminary (PET)* hoặc placement test IELTS (British Council, IDP). Đạt khoảng 4.5–5.0 là đúng tiến độ.
+- **Mốc kiểm tra:** *Cambridge B1 Preliminary (PET)* sample hoặc placement test B1. Không kỹ năng nào dưới 60%.
 
-## Giai đoạn 3: Luyện thi IELTS 6.0 (tháng 9–12)
+## Giai đoạn 3: Tiếng Anh công việc B2 (tháng 9–12)
 
-Giáo trình: *Cambridge IELTS 14–19*, *Cambridge Vocabulary for IELTS*, *Grammar for IELTS*.
+Giáo trình: Destination B2 (ngữ pháp, từ vựng), một giáo trình Business English trình độ B2 (TODO: chọn và xác minh), tài liệu kỹ thuật thật. Vị trí mục tiêu (Solution Architect, Senior DevOps/SRE/Backend, Platform Engineer): xem [work-english-software.md](resources/work-english-software.md). Giữ **4 kỹ năng đồng đều** như mọi giai đoạn.
 
-### Listening (6.0 ≈ đúng 23/40)
-- Làm quen 4 phần và các dạng: form completion, multiple choice, map/diagram labelling, matching.
-- Dictation 10–15 phút mỗi ngày để cải thiện bắt âm.
-- Đoán từ loại của đáp án, nhận biết paraphrase.
-- Mỗi tuần 2 section có chấm điểm, nghe lại kèm script để rút lỗi sai.
+### Nghe
+- Họp, cuộc gọi mẫu, webinar, podcast về ngành. Ghi action items, số liệu, thời hạn.
+- Dictation 10–15 phút mỗi ngày; nghe đoạn 5–10 phút và tóm tắt.
+- Hiểu giọng khác nhau (Anh, Mỹ, Úc, Ấn) và người nói nhanh.
 
-### Reading (6.0 ≈ đúng 23/40)
-- Kỹ thuật cho T/F/NG, matching headings, sentence completion, summary completion.
-- Quản lý thời gian: 20 phút mỗi passage.
-- Nhận diện paraphrase và từ đồng nghĩa giữa câu hỏi và đoạn văn.
-- Mỗi tuần 3 passage tính giờ, ghi từ mới vào sổ từ vựng.
+### Nói
+- Phát biểu trong họp: nêu ý kiến, đồng ý/phản đối lịch sự, hỏi lại (*Could you clarify...?*).
+- Thuyết trình 5 phút có mở, thân, kết; trả lời câu hỏi.
+- Cuộc gọi: giới thiệu, ghi lại yêu cầu, xác nhận lại.
+- Ghi âm, nghe lại, so sánh; gia sư nhập vai tình huống công việc.
 
-### Writing (mỗi tiêu chí khoảng 6.0)
-- **Task 1 (150 từ):** mô tả biểu đồ (line, bar, pie, table, process, map): overview, so sánh số liệu, từ vựng xu hướng.
-- **Task 2 (250 từ):** cấu trúc 4 đoạn cho các dạng opinion, discussion, problem–solution, two-part question.
-- Band 6.0: viết rõ ý, đủ ý, ít lỗi ngữ pháp cơ bản, dùng được vài câu phức.
-- Mỗi tuần 2 Task 2 và 1–2 Task 1, chấm theo 4 tiêu chí (TR, CC, LR, GRA), viết lại sau khi sửa.
+### Đọc
+- Email, báo cáo, tài liệu kỹ thuật, bài báo kinh doanh. Skimming để nắm ý trong 5 phút, scanning để tìm số liệu.
+- Từ vựng chuyên ngành và collocation công việc (*meet a deadline*, *raise a concern*).
 
-### Speaking (6.0)
-- 3 phần thi: Part 1 (câu hỏi quen thuộc), Part 2 (cue card, 1–2 phút), Part 3 (thảo luận trừu tượng).
-- Chuẩn bị ý và từ vựng cho 15–20 chủ đề phổ biến.
-- Part 2: khung giới thiệu → chi tiết → cảm nhận, luyện nói đủ thời gian.
-- Ghi âm, nghe lại để sửa phát âm và ngập ngừng.
-- Mock speaking 1 buổi mỗi tuần.
+### Viết
+- Email: yêu cầu, từ chối lịch sự, follow-up, nhắc việc (100–150 từ).
+- Tóm tắt cuộc họp, báo cáo ngắn 200–300 từ, tin nhắn chat công việc.
+- Mỗi tuần 2 bài có sửa và viết lại; giọng điệu (formal/neutral) phù hợp người nhận.
 
-### Lịch học tuần mẫu (2 giờ mỗi ngày)
-
-| Ngày | Nội dung |
-|---|---|
-| Thứ 2 | Listening (45') + từ vựng (30') + ngữ pháp (45') |
-| Thứ 3 | Reading (60') + Speaking tự luyện (30') + Anki (30') |
-| Thứ 4 | Writing Task 2 (60') + sửa bài (30') + Listening (30') |
-| Thứ 5 | Reading (60') + Speaking Part 2–3 (45') + Anki (15') |
-| Thứ 6 | Writing Task 1 (45') + Listening (45') + từ vựng (30') |
-| Thứ 7 | Mock test 1 phần hoặc buổi gia sư (90') + ôn lỗi sai (30') |
-| Chủ nhật | Nghỉ, hoặc xem phim, podcast nhẹ nhàng |
+### Lịch học
+Dùng đúng khung tuần trong [schedule.md](schedule.md) (7 giờ mỗi tuần, 4 kỹ năng gần bằng nhau). Cuối tháng làm bài mô phỏng công việc ở mục "Cột mốc" của `schedule.md`.
 
 ## Quy tắc xuyên suốt
 
@@ -99,8 +86,9 @@ Giáo trình: *Cambridge IELTS 14–19*, *Cambridge Vocabulary for IELTS*, *Gram
 2. Từ vựng theo cụm và ngữ cảnh; ôn lặp lại ngắt quãng (Anki) mỗi ngày.
 3. Học chủ động: shadowing, tóm tắt bằng lời, viết xong phải được sửa và viết lại.
 4. Có người sửa lỗi cho Speaking và Writing.
-5. Ghi sổ lỗi sai (error log) và xem lại mỗi tuần.
-6. Đo tiến độ mỗi 2 tháng bằng bài test.
+5. Giữ 4 kỹ năng đồng đều: tuần nào thiếu một kỹ năng thì bù ở tuần sau, không bỏ hẳn.
+6. Ghi sổ lỗi sai (error log) và xem lại mỗi tuần.
+7. Đo tiến độ mỗi 2 tháng bằng bài test.
 
 ## Cột mốc kiểm tra tổng
 
@@ -108,14 +96,14 @@ Giáo trình: *Cambridge IELTS 14–19*, *Cambridge Vocabulary for IELTS*, *Gram
 |---|---|---|
 | Tháng 2 | Test A1 (Cambridge/Oxford placement) | A1 hoàn thiện |
 | Tháng 5 | KET/A2 sample test | ≥ 70% |
-| Tháng 8 | IELTS placement/diagnostic | 4.5–5.0 |
-| Tháng 10 | Mock IELTS đầy đủ | 5.0–5.5 |
-| Tháng 12 | Mock IELTS đầy đủ (2–3 đề) | ≥ 6.0 ổn định ở cả 4 kỹ năng |
+| Tháng 8 | Placement test B1 / PET sample | B1, không kỹ năng nào dưới 60% |
+| Tháng 10 | B2 First sample (đủ 4 kỹ năng) | B2 mức thấp |
+| Tháng 12 | B2 First sample + bài mô phỏng công việc (họp, thuyết trình, email, báo cáo) | B2 vững ở cả 4 kỹ năng |
 
-Chỉ đăng ký thi thật khi mock test đạt 6.0–6.5 liên tục ít nhất 2–3 lần.
+Chứng chỉ chính thức (IELTS, B2 First...) chỉ đăng ký nếu cần và khi sample test đạt mục tiêu liên tục 2–3 lần. Mốc thời gian thực tế (20 tháng): xem [schedule.md](schedule.md).
 
 ## Chi phí tham khảo
 
 - Tự học: sách và app khoảng 1–2 triệu đồng.
 - Gia sư online (italki/Cambly): 150.000–300.000 đồng mỗi buổi 45–60 phút.
-- Lệ phí thi IELTS: khoảng 4,7 triệu đồng.
+- Lệ phí thi chứng chỉ (nếu cần, ví dụ IELTS): TODO: xác minh mức phí hiện hành.

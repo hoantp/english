@@ -1,4 +1,4 @@
-# Học tiếng Anh (Zero → IELTS 6.0)
+# Học tiếng Anh (Zero → thành thạo trong công việc, B2)
 
 Đầu mỗi session, đọc bản tóm tắt session mới nhất trong `docs/logs/*session*summary*.md` (hồ sơ người học, quyết định đã chốt, việc còn mở). Cuối session quan trọng, thêm file tóm tắt mới (số thứ tự tăng dần) theo cùng cấu trúc.
 

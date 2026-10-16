@@ -15,14 +15,14 @@ english/
     ├── 00-foundation/        # A1
     ├── 01-elementary/        # A2
     ├── 02-intermediate/      # B1
-    ├── 03-ielts/
+    ├── 03-work-english/      # B2, tiếng Anh công việc
     │   ├── listening/
     │   ├── reading/
     │   ├── writing/
     │   └── speaking/
     ├── vocabulary/           # từ vựng theo chủ đề
     ├── grammar/              # ngữ pháp theo chủ điểm
-    ├── logs/                 # error log, nhật ký học, kết quả mock test
+    ├── logs/                 # error log, nhật ký học, kết quả sample test
     └── resources/            # danh sách sách, kênh, app
 ```
 
@@ -32,7 +32,7 @@ Tạo thư mục con khi cần, không tạo trước thư mục rỗng.
 
 - Chữ thường, ngăn cách bằng dấu gạch ngang (`kebab-case`), không dấu tiếng Việt, không khoảng trắng.
 - Tài liệu theo thứ tự có tiền tố số hai chữ số: `01-present-simple.md`.
-- Tài liệu theo ngày có tiền tố ISO: `2026-10-15-mock-test-1.md`.
+- Tài liệu theo ngày có tiền tố ISO: `2026-10-15-sample-test-1.md`.
 - Một file một chủ đề. Nếu quá 400 dòng thì tách ra.
 
 ## 3. Front matter bắt buộc
@@ -43,9 +43,9 @@ Mỗi file bắt đầu bằng front matter YAML:
 ---
 title: <tiêu đề>
 type: grammar | vocabulary | listening | reading | writing | speaking | log | roadmap | resource
-level: A1 | A2 | B1 | B2 | IELTS-5.5 | IELTS-6.0
+level: A1 | A2 | B1 | B2 | B2-work
 created: YYYY-MM-DD
-updated: YYYY-MM-DD
+updated: 2026-10-16
 status: draft | active | done
 tags: []
 ---
@@ -70,7 +70,7 @@ tags: []
 | grammar | Công thức, cách dùng, ví dụ, lỗi thường gặp, bài tập + đáp án |
 | vocabulary | Bảng từ (từ, loại, IPA, nghĩa, ví dụ), chủ đề, ngày bắt đầu ôn |
 | listening / reading | Nguồn, thời lượng, điểm số, câu sai và lý do sai |
-| writing | Đề bài, bài viết gốc, bản sửa, điểm theo TR/CC/LR/GRA |
+| writing | Đề bài, bài viết gốc, bản sửa, lỗi chính, chấm theo tiêu chí trong `schedule.md` (nội dung, bố cục, từ vựng, ngữ pháp) |
 | speaking | Đề bài, dàn ý, transcript (nếu ghi âm), lỗi phát âm/ngữ pháp |
 | log | Ngày, thời gian học, nội dung, lỗi lặp lại, mục tiêu ngày mai |
 
@@ -87,7 +87,7 @@ Mỗi tài liệu giai đoạn (`00-`, `01-`, `02-`, `03-`) phải mở đầu b
 ## 8. Ghi chép tiến độ
 
 - `docs/logs/` giữ nhật ký theo ngày hoặc tuần; mỗi 2 tuần tổng kết lỗi lặp lại.
-- Kết quả mock test lưu thành file riêng và thêm một dòng vào bảng tiến độ trong `README.md`.
+- Kết quả sample test lưu thành file riêng và thêm một dòng vào bảng tiến độ trong `README.md`.
 - Không xóa log cũ; chỉ đánh dấu `status: done`.
 
 ## 9. Quy tắc khi Claude tạo tài liệu

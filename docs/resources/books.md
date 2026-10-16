@@ -1,9 +1,9 @@
 ---
 title: Sách và nguồn học, cách dùng bộ Destination
 type: resource
-level: A1 -> IELTS-6.0
+level: A1 -> B2-work
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 status: active
 tags: [books, destination, resources]
 ---
@@ -21,8 +21,8 @@ Bạn có trọn bộ **Destination Grammar B1, B2, C1&C2** (Macmillan). Mỗi s
 | Sách | Trình độ sách | Dùng khi nào | Vai trò |
 |---|---|---|---|
 | Destination B1 | B1 | Từ khoảng tháng 6, khi đã xong A2 (xem "Cầu nối" bên dưới). Chính thức học xuyên suốt giai đoạn 2 (tháng 9–14) | Xương sống ngữ pháp và từ vựng cho B1 |
-| Destination B2 | B2 | Giai đoạn 3 (tháng 15–20) | Ngữ pháp và từ vựng cho IELTS 6.0, nhất là Writing và Speaking |
-| Destination C1&C2 | C1–C2 | **Chưa cần** cho IELTS 6.0 | Chỉ tham khảo chọn lọc (cụm động từ, collocation, từ nối) khi đã vững B2, hoặc dùng sau khi thi |
+| Destination B2 | B2 | Giai đoạn 3 (tháng 15–20) | Ngữ pháp và từ vựng B2 cho tiếng Anh công việc, nhất là Writing (email, báo cáo) và Speaking (họp) |
+| Destination C1&C2 | C1–C2 | Từ khoảng tháng 18, chọn lọc | Mục tiêu công việc nên dùng chọn lọc (cụm động từ, collocation, từ nối, văn phong formal) khi đã vững B2 |
 
 **Lưu ý quan trọng:** Destination B1 giả định bạn đã có nền A2 (các thì cơ bản, từ vựng 1.500 từ đầu). Vì bạn đang bắt đầu từ Zero, **không dùng sách này ở giai đoạn 0 và phần lớn giai đoạn 1**, nếu không sẽ nản và học không hiệu quả.
 
@@ -36,7 +36,7 @@ Dùng tài liệu tự soạn trong `docs/grammar/` và `docs/vocabulary/` (theo
 
 ### Nhịp dùng Destination B1 (từ tháng 6)
 
-- Mỗi tuần 2 bài: Sáng T6 (20') đọc phần giải thích + làm bài tập; Tối T7 (25') làm tiếp bài tập và sửa lỗi.
+- Mỗi tuần 2 bài: Sáng T6 (20') đọc phần giải thích + làm bài tập; Tối T7 (20') làm tiếp bài tập và sửa lỗi.
 - Quy trình mỗi bài: đọc giải thích → làm bài tập (không nhìn đáp án) → chấm → ghi mỗi câu sai vào log → viết 3 câu của riêng mình dùng điểm ngữ pháp đó → nói thành tiếng 3 câu ví dụ.
 - Điểm nào làm sai trên 30% thì quay lại làm lần hai sau 1 tuần.
 - Dùng phần từ vựng của sách cho Anki (theo `docs/templates/vocabulary.md`).
@@ -46,13 +46,24 @@ Dùng tài liệu tự soạn trong `docs/grammar/` và `docs/vocabulary/` (theo
 
 | Nguồn | Mức | Dùng cho |
 |---|---|---|
-| British Council LearnEnglish – Listening A1/A2 | A1–A2 | Nghe chủ động T2/T4 sáng, nghe sâu tối T5 |
+| British Council LearnEnglish – Listening A1/A2 | A1–A2 | Nghe sáng T2, nghe có câu hỏi tối T3 |
 | British Council – Elementary Podcasts | A1–A2 | Nghe chủ động, có transcript |
 | Randall's ESL Cyber Listening Lab (mức Easy) | A1–A2 | Nghe sâu, có câu hỏi |
 | English with Lucy – Beginner (YouTube) | A1–A2 | Nghe và shadowing |
 | BBC Learning English – 6 Minute English | B1 | Từ giai đoạn 2 |
 
 TODO: xác minh nguồn còn hoạt động và ghi link khi bắt đầu dùng.
+
+## Nguồn Đọc và Viết (giai đoạn 0–1)
+
+| Nguồn | Mức | Dùng cho |
+|---|---|---|
+| British Council LearnEnglish – Reading A1/A2 | A1–A2 | Đọc sáng T4, tối T5 |
+| Graded readers (Oxford Bookworms Starter/Level 1, Cambridge Readers) | A1–A2 | Đọc dài, CN |
+| *Breaking News English*, *VOA Learning English* | A2–B1 | Từ giai đoạn 1 |
+| Mẫu câu trong `docs/00-foundation/week-*.md` + AI sửa bài | A1 | Viết sáng T5, tối T5, viết lại CN |
+
+TODO: xác minh nguồn còn hoạt động và ghi link khi bắt đầu dùng. Giai đoạn 3 bổ sung: Business English giáo trình B2 (TODO: chọn) và tài liệu thật từ ngành của bạn.
 
 ## Nguồn Phát âm
 
