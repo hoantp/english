@@ -14,7 +14,7 @@ tags: [phase-0, week-2, articles, countable]
 
 - Học 25–30 từ Oxford mới đầu tiên (hoặc số tính theo U ở tuần 1), mỗi từ có 1 câu nói và 1 câu viết.
 - Phân biệt đếm được/không đếm được: *information, advice, feedback, software, equipment*; dùng đúng a/an/some/much/many.
-- Ôn hiện tại đơn để mô tả thói quen và hệ thống ([03-present-simple](../grammar/03-present-simple.md), [07 §1](../grammar/07-present-tenses-overview.md)).
+- Ôn hiện tại đơn để mô tả thói quen và hệ thống ([03-present-simple](../grammar/03-present-simple.md), [08 §1](../grammar/08-common-tenses.md)).
 - Nói 2 phút liên tục, khựng ít hơn tuần 1.
 
 ## Lịch tuần

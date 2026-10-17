@@ -24,7 +24,7 @@ Bạn có trọn bộ **Destination Grammar B1, B2, C1&C2** (Macmillan). Mỗi s
 | Destination B2 | B2 | Giai đoạn 2–3 (từ tuần 33) | Ngữ pháp và từ vựng B2 cho tiếng Anh công việc, nhất là Writing (email, báo cáo) và Speaking (họp) |
 | Destination C1&C2 | C1–C2 | Từ khoảng tuần 53, chọn lọc | Mục tiêu công việc nên dùng chọn lọc (cụm động từ, collocation, từ nối, văn phong formal) khi đã vững B2 |
 
-**Lưu ý:** Destination B1 giả định nền A2. Bạn có điểm yếu ở mạo từ, thì và từ vựng cơ bản, nên ở tuần 1–2 dùng tài liệu tự soạn ([mạo từ](../grammar/08-articles-a-an-the.md)) trước, từ tuần 3 bắt đầu bài tập Destination B1 và nếu sách quá khó thì quay lại tài liệu tự soạn. Từ vựng cơ bản học theo [Oxford 3000](oxford-3000-method.md).
+**Lưu ý:** Destination B1 giả định nền A2. Bạn có điểm yếu ở mạo từ, thì và từ vựng cơ bản, nên ở tuần 1–2 dùng tài liệu tự soạn ([mạo từ](../grammar/07-articles-a-an-the.md)) trước, từ tuần 3 bắt đầu bài tập Destination B1 và nếu sách quá khó thì quay lại tài liệu tự soạn. Từ vựng cơ bản học theo [Oxford 3000](oxford-3000-method.md).
 
 ### Tài liệu bổ trợ cho điểm yếu (giai đoạn 0)
 

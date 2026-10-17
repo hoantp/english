@@ -29,10 +29,10 @@ Ba điểm yếu liên quan nhau: thiếu từ cơ bản và rối ngữ pháp t
 | 1 | Danh từ này **đếm được, số ít**? | Phải có a/an/the/my/this... đứng trước |
 | 2 | Người đọc đã biết chính xác cái nào? (đã nhắc, duy nhất, hoàn cảnh rõ) | dùng **the**; chưa biết hoặc lần đầu nhắc thì **a/an** |
 | 3 | Số nhiều hoặc không đếm được, nói chung? | Không mạo từ: *Logs help us find bugs.* |
-| 4 | Có từ chỉ thời gian? (now, yesterday, every day, since, for, already) | Chọn thì theo bảng ở [07-present-tenses-overview](../grammar/07-present-tenses-overview.md) |
+| 4 | Có từ chỉ thời gian? (now, yesterday, every day, since, for, already) | Chọn thì theo bảng ở [08-common-tenses](../grammar/08-common-tenses.md) |
 | 5 | Chủ ngữ số ít + hiện tại đơn? | Thêm -s |
 
-Chi tiết và bài tập mạo từ: [08-articles-a-an-the](../grammar/08-articles-a-an-the.md).
+Chi tiết và bài tập mạo từ: [07-articles-a-an-the](../grammar/07-articles-a-an-the.md).
 
 ### Cách luyện
 

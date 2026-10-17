@@ -35,11 +35,11 @@ Tuần 1–2 đã soạn chi tiết. Tuần 3–12 soạn khi người học bá
 |---|---|---|---|---|
 | 1 | Mạo từ a/an/the/Ø | Câu ngắn, câu đệm; đường cơ sở | Lọc từ A1–A2 | [week-01](week-01.md) |
 | 2 | Mạo từ (đếm được/không đếm được) + ôn hiện tại đơn | Cụm cố định, 4/3/2 lần 1 | Học từ A1–A2 đợt 1 | [week-02](week-02.md) |
-| 3 | Hiện tại đơn và tiếp diễn ([07 §1–2](../grammar/07-present-tenses-overview.md)) | Mô tả công việc hằng ngày | TODO | TODO |
+| 3 | Hiện tại đơn và tiếp diễn ([08 §1–2](../grammar/08-common-tenses.md)) | Mô tả công việc hằng ngày | TODO | TODO |
 | 4 | Quá khứ đơn | Kể việc hôm qua | TODO | TODO |
-| 5 | Hiện tại hoàn thành ([07 §3](../grammar/07-present-tenses-overview.md)) | Kinh nghiệm làm việc | TODO | TODO |
+| 5 | Hiện tại hoàn thành ([08 §3](../grammar/08-common-tenses.md)) | Kinh nghiệm làm việc | TODO | TODO |
 | 6 | Hiện tại hoàn thành và quá khứ đơn | Kể dự án | TODO | TODO |
-| 7 | Hiện tại hoàn thành tiếp diễn ([07 §4](../grammar/07-present-tenses-overview.md)) | Giải thích tình trạng công việc | TODO | TODO |
+| 7 | Hiện tại hoàn thành tiếp diễn ([09 §1](../grammar/09-rare-tenses.md)) | Giải thích tình trạng công việc | TODO | TODO |
 | 8 | Tương lai (will / going to / hiện tại tiếp diễn) | Kế hoạch tuần | TODO | TODO |
 | 9–10 | Modal verbs | Đề nghị, xin phép, lời khuyên | TODO | TODO |
 | 11–12 | Ôn tổng theo log lỗi; so sánh; câu điều kiện loại 0/1 | Ôn, test nói | TODO | TODO |
@@ -51,7 +51,7 @@ Phần "phỏng vấn sinh tồn" ([interview-plan.md](../interview-plan.md)) gi
 ## Tài liệu của giai đoạn
 
 - Phương pháp: [oxford-3000-method.md](../resources/oxford-3000-method.md), [weak-points-plan.md](../resources/weak-points-plan.md).
-- Ngữ pháp mới: [mạo từ](../grammar/08-articles-a-an-the.md), [bốn thì hiện tại](../grammar/07-present-tenses-overview.md).
+- Ngữ pháp mới: [mạo từ](../grammar/07-articles-a-an-the.md), [các thì thường dùng](../grammar/08-common-tenses.md).
 - Ngữ pháp A1 dùng để tra cứu khi cần: [to be](../grammar/01-to-be.md), [đại từ, mạo từ, số nhiều](../grammar/02-pronouns-articles-plurals.md), [hiện tại đơn](../grammar/03-present-simple.md), [there is/are, have/has](../grammar/04-there-is-are-have-has.md), [hiện tại tiếp diễn](../grammar/05-present-continuous.md), [can/must](../grammar/06-can-must.md).
 - [Bảng IPA](ipa.md): dùng tra phát âm khi gặp từ mới, không học từ đầu.
 

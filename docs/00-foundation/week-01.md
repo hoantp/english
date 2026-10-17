@@ -14,7 +14,7 @@ tags: [phase-0, week-1, placement, articles]
 
 - Có **đường cơ sở**: kết quả placement test, 1 bản ghi âm nói 1 phút, 1 đoạn viết 8 câu (chưa nhìn tài liệu), kết quả đếm số lỗi mạo từ/thì.
 - Cài Anki; tải Oxford 3000; lọc xong mức A1 và A2 (K/R/N), điền bảng trong [oxford-3000-method.md](../resources/oxford-3000-method.md).
-- Nắm quy trình mạo từ ([08-articles-a-an-the](../grammar/08-articles-a-an-the.md)), làm đúng ≥ 10/12 bài tập.
+- Nắm quy trình mạo từ ([07-articles-a-an-the](../grammar/07-articles-a-an-the.md)), làm đúng ≥ 10/12 bài tập.
 - Biết 6 câu đệm/cụm cố định trong [weak-points-plan.md](../resources/weak-points-plan.md) và dùng trong buổi nói.
 
 ## Lịch tuần
@@ -26,7 +26,7 @@ tags: [phase-0, week-1, placement, articles]
 | T3 | Tối 60' | Nói + Nghe | **Nói 30':** học 6 câu đệm/cụm; nói với AI voice 20' về công việc, dặn AI sửa mạo từ và thì; ghi 3 lỗi (10'). **Nghe 30':** bài nghe B1 có câu hỏi, chấm điểm |
 | T4 | Sáng 30' | Đọc | Phần Đọc của placement test (20') + 5 từ lạ vào danh sách (10') |
 | T5 | Sáng 30' | Viết | **Đường cơ sở:** viết 8 câu về công việc hiện tại (20', không nhìn tài liệu), rồi đếm lỗi mạo từ/thì bằng checklist (10') |
-| T5 | Tối 60' | Đọc + Viết | **Đọc 30':** đọc [08-articles-a-an-the](../grammar/08-articles-a-an-the.md) và làm bài tập. **Viết 30':** viết lại 8 câu của sáng, áp checklist, nhờ AI chỉ lỗi (chưa sửa) |
+| T5 | Tối 60' | Đọc + Viết | **Đọc 30':** đọc [07-articles-a-an-the](../grammar/07-articles-a-an-the.md) và làm bài tập. **Viết 30':** viết lại 8 câu của sáng, áp checklist, nhờ AI chỉ lỗi (chưa sửa) |
 | T6 | Sáng 30' | Từ vựng | Cài Anki, tải Oxford 3000, lọc mức A1 (K/R/N) |
 | T7 | Sáng 30' | Nói | Nói 2 phút về "my typical working day", ghi âm, đếm khựng, ghi 2 lỗi |
 | T7 | Tối 60' | Nghe + Từ vựng + Ngữ pháp | **Nghe 15':** dictation 3 câu. **Từ vựng 15':** lọc tiếp mức A2. **Ngữ pháp 30':** làm lại bài tập mạo từ không nhìn đáp án, ghi câu sai |
