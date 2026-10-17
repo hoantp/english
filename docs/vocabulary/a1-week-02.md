@@ -3,12 +3,14 @@ title: Từ vựng A1 tuần 2 - Gia đình và đồ vật
 type: vocabulary
 level: A1
 created: 2026-10-15
-updated: 2026-10-15
-status: draft
+updated: 2026-10-17
+status: archived
 tags: [week-2, a1]
 ---
 
 # Từ vựng A1 tuần 2 - Gia đình và đồ vật
+
+> **Lưu trữ (2026-10-17):** tài liệu A1 cũ, không còn trong lộ trình. Lộ trình hiện hành: [schedule.md](../schedule.md).
 
 ## Mục tiêu
 

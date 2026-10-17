@@ -1,9 +1,9 @@
 ---
 title: Kế hoạch phỏng vấn sau Tết 2027 và làm việc remote
 type: roadmap
-level: A1 -> B2-work
+level: B1 -> B2-work
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
 status: active
 tags: [interview, remote, timeline]
 ---
@@ -13,18 +13,18 @@ tags: [interview, remote, timeline]
 ## Mục tiêu
 
 - Có thể bắt đầu phỏng vấn **sau Tết Âm lịch 2027** (Tết rơi vào khoảng 2027-02-06, TODO: xác minh), cho vị trí Solution Architect, Senior DevOps/SRE/Backend, Platform Engineer, ưu tiên công ty cho phép remote, trong nước hay nước ngoài đều được.
-- Tiêu chí kiểm tra cuối tuần 16 (2027-02-07), **mức tối thiểu**: nói được 1–2 phút giới thiệu kinh nghiệm (bản đã chuẩn bị), trả lời 5 câu HR phổ biến, có CV tiếng Anh đã được sửa. Phần còn lại (LinkedIn, 10 câu HR) là tùy chọn.
+- Tiêu chí kiểm tra cuối tuần 16 (2027-02-07), **mức tối thiểu** (với xuất phát B1 từ 2026-10-17, có thể nâng yêu cầu khi test tuần 12 cho kết quả tốt): nói được 1–2 phút giới thiệu kinh nghiệm (bản đã chuẩn bị), trả lời 5 câu HR phổ biến, có CV tiếng Anh đã được sửa. Phần còn lại (LinkedIn, 10 câu HR) là tùy chọn.
 - **Nguyên tắc: không dồn.** Giữ 7 giờ mỗi tuần, không tăng giờ. Chuẩn bị phỏng vấn chỉ thay nội dung trong các buổi Nói và Viết sẵn có, tối đa 15 phút mỗi tuần. Phần nào chưa kịp thì bỏ, không bù.
 
 ## Kiểm tra thực tế (đọc trước khi quyết định)
 
 | Mốc | Số tuần học | Số giờ học (≈ 7 giờ mỗi tuần) | Trình độ dự kiến |
 |---|---|---|---|
-| Tết 2027 (tuần 16, kết thúc 2027-02-07) | 16 | ≈ 112 giờ | A1 cao, đầu A2 |
-| Hết tháng 3/2027 (tuần 22) | 22 | ≈ 154 giờ | A2 thấp |
-| Lộ trình chuẩn đạt B2 | 80+ | ≈ 560+ giờ | B2 vững khoảng tháng 6/2028 |
+| Tết 2027 (tuần 16, kết thúc 2027-02-07) | 16 | ≈ 112 giờ | B1 chắc, đang củng cố (dự kiến, kiểm tra bằng test tuần 12) |
+| Hết tháng 3/2027 (tuần 22) | 22 | ≈ 154 giờ | B1 vững |
+| Lộ trình đạt B2 vững | ≈ 70 | ≈ 490 giờ | khoảng 2028-02-20 (ước lượng, xem [schedule.md](schedule.md)) |
 
-Kết luận trung thực: sau Tết 2027 bạn **chưa thể** phỏng vấn kỹ thuật cấp senior hoàn toàn bằng tiếng Anh (cần khoảng B2). Bạn có thể đi **phỏng vấn sàng lọc** bằng câu trả lời chuẩn bị sẵn và tập kỹ. Phần kỹ thuật (code, kiến trúc) là thế mạnh của bạn, nên chiến lược là dùng thế mạnh đó trong lúc tiếng Anh bắt kịp.
+Kết luận trung thực: sau Tết 2027 bạn **chưa chắc** phỏng vấn được kỹ thuật cấp senior hoàn toàn bằng tiếng Anh (cần khoảng B2); ở mức B1 chắc thì vòng sàng lọc là khả thi nếu nói đã bớt vấp. Bạn có thể đi **phỏng vấn sàng lọc** bằng câu trả lời chuẩn bị sẵn và tập kỹ. Phần kỹ thuật (code, kiến trúc) là thế mạnh của bạn, nên chiến lược là dùng thế mạnh đó trong lúc tiếng Anh bắt kịp.
 
 ## Hai đường song song
 
@@ -60,7 +60,7 @@ Vì câu trả lời được chuẩn bị trước, bạn không cần ngữ ph
 
 ## Quyết định về giờ học
 
-Đã chốt: **giữ 7 giờ mỗi tuần** (người học mới quay lại, không muốn bị dồn). Hệ quả: đường B giữ mốc theo `schedule.md` (B2 vững khoảng tháng 6/2028), không rút ngắn. Nếu sau này muốn tăng giờ thì cập nhật lại, không tự động.
+Đã chốt: **giữ 7 giờ mỗi tuần** (người học mới quay lại, không muốn bị dồn). Hệ quả: đường B giữ mốc theo `schedule.md` (B2 vững khoảng 2028-02-20), không rút ngắn thêm. Nếu sau này muốn tăng giờ thì cập nhật lại, không tự động.
 
 ## Điểm kiểm tra
 

@@ -3,12 +3,14 @@ title: Tuần 3 - Thói quen hằng ngày, hiện tại đơn
 type: roadmap
 level: A1
 created: 2026-10-15
-updated: 2026-10-16
-status: draft
+updated: 2026-10-17
+status: archived
 tags: [phase-0, week-3]
 ---
 
 # Tuần 3 (02/11–08/11/2026)
+
+> **Lưu trữ (2026-10-17):** tài liệu A1 cũ, không còn trong lộ trình. Lộ trình hiện hành: [schedule.md](../schedule.md).
 
 ## Mục tiêu
 

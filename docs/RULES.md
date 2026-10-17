@@ -12,10 +12,10 @@ english/
     ├── RULES.md              # file này
     ├── roadmap.md            # lộ trình tổng
     ├── templates/            # mẫu tài liệu
-    ├── 00-foundation/        # A1
-    ├── 01-elementary/        # A2
-    ├── 02-intermediate/      # B1
-    ├── 03-work-english/      # B2, tiếng Anh công việc
+    ├── 00-foundation/        # GĐ 0: sửa nền (B1 thấp)
+    ├── 01-consolidation/     # GĐ 1: vững B1
+    ├── 02-upper-intermediate/# GĐ 2: B1+ → B2
+    ├── 03-work-english/      # GĐ 3: B2, tiếng Anh công việc
     │   ├── listening/
     │   ├── reading/
     │   ├── writing/
@@ -46,7 +46,7 @@ type: grammar | vocabulary | listening | reading | writing | speaking | log | ro
 level: A1 | A2 | B1 | B2 | B2-work
 created: YYYY-MM-DD
 updated: 2026-10-16
-status: draft | active | done
+status: draft | active | done | archived
 tags: []
 ---
 ```
@@ -89,6 +89,7 @@ Mỗi tài liệu giai đoạn (`00-`, `01-`, `02-`, `03-`) phải mở đầu b
 - `docs/logs/` giữ nhật ký theo ngày hoặc tuần; mỗi 2 tuần tổng kết lỗi lặp lại.
 - Kết quả sample test lưu thành file riêng và thêm một dòng vào bảng tiến độ trong `README.md`.
 - Không xóa log cũ; chỉ đánh dấu `status: done`.
+- Tài liệu không còn trong lộ trình (ví dụ giáo trình A1 cũ) đánh dấu `status: archived` và ghi banner trỏ tới tài liệu thay thế; không xóa.
 
 ## 9. Quy tắc khi Claude tạo tài liệu
 

@@ -1,9 +1,9 @@
 ---
 title: Sách và nguồn học, cách dùng bộ Destination
 type: resource
-level: A1 -> B2-work
+level: B1 -> B2-work
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-17
 status: active
 tags: [books, destination, resources]
 ---
@@ -20,13 +20,13 @@ Bạn có trọn bộ **Destination Grammar B1, B2, C1&C2** (Macmillan). Mỗi s
 
 | Sách | Trình độ sách | Dùng khi nào | Vai trò |
 |---|---|---|---|
-| Destination B1 | B1 | Từ khoảng tháng 6, khi đã xong A2 (xem "Cầu nối" bên dưới). Chính thức học xuyên suốt giai đoạn 2 (tháng 9–14) | Xương sống ngữ pháp và từ vựng cho B1 |
-| Destination B2 | B2 | Giai đoạn 3 (tháng 15–20) | Ngữ pháp và từ vựng B2 cho tiếng Anh công việc, nhất là Writing (email, báo cáo) và Speaking (họp) |
-| Destination C1&C2 | C1–C2 | Từ khoảng tháng 18, chọn lọc | Mục tiêu công việc nên dùng chọn lọc (cụm động từ, collocation, từ nối, văn phong formal) khi đã vững B2 |
+| Destination B1 | B1 | **Dùng ngay từ tuần 3** (người học đã xuất phát từ B1, cập nhật 2026-10-17); xuyên suốt giai đoạn 0–1 | Xương sống ngữ pháp và từ vựng cho B1 |
+| Destination B2 | B2 | Giai đoạn 2–3 (từ tuần 33) | Ngữ pháp và từ vựng B2 cho tiếng Anh công việc, nhất là Writing (email, báo cáo) và Speaking (họp) |
+| Destination C1&C2 | C1–C2 | Từ khoảng tuần 53, chọn lọc | Mục tiêu công việc nên dùng chọn lọc (cụm động từ, collocation, từ nối, văn phong formal) khi đã vững B2 |
 
-**Lưu ý quan trọng:** Destination B1 giả định bạn đã có nền A2 (các thì cơ bản, từ vựng 1.500 từ đầu). Vì bạn đang bắt đầu từ Zero, **không dùng sách này ở giai đoạn 0 và phần lớn giai đoạn 1**, nếu không sẽ nản và học không hiệu quả.
+**Lưu ý:** Destination B1 giả định nền A2. Bạn có điểm yếu ở mạo từ, thì và từ vựng cơ bản, nên ở tuần 1–2 dùng tài liệu tự soạn ([mạo từ](../grammar/08-articles-a-an-the.md)) trước, từ tuần 3 bắt đầu bài tập Destination B1 và nếu sách quá khó thì quay lại tài liệu tự soạn. Từ vựng cơ bản học theo [Oxford 3000](oxford-3000-method.md).
 
-### Cầu nối: giai đoạn 0–1 (tháng 1–5)
+### Tài liệu bổ trợ cho điểm yếu (giai đoạn 0)
 
 Dùng tài liệu tự soạn trong `docs/grammar/` và `docs/vocabulary/` (theo `RULES.md`), kết hợp nguồn miễn phí:
 
@@ -34,9 +34,9 @@ Dùng tài liệu tự soạn trong `docs/grammar/` và `docs/vocabulary/` (theo
 - *Perfect English Grammar* (website, có bài tập và đáp án).
 - Tùy chọn nếu muốn có sách giấy cho A1–A2: *Basic Grammar in Use* hoặc *Grammar in Use – Elementary* (Cambridge). Không bắt buộc.
 
-### Nhịp dùng Destination B1 (từ tháng 6)
+### Nhịp dùng Destination B1 (từ tuần 3)
 
-- Mỗi tuần 2 bài: Sáng T6 (20') đọc phần giải thích + làm bài tập; Tối T7 (20') làm tiếp bài tập và sửa lỗi.
+- Mỗi tuần 1–2 bài trong buổi Ngữ pháp Tối T7 (30'); đọc phần giải thích, làm bài tập và sửa lỗi.
 - Quy trình mỗi bài: đọc giải thích → làm bài tập (không nhìn đáp án) → chấm → ghi mỗi câu sai vào log → viết 3 câu của riêng mình dùng điểm ngữ pháp đó → nói thành tiếng 3 câu ví dụ.
 - Điểm nào làm sai trên 30% thì quay lại làm lần hai sau 1 tuần.
 - Dùng phần từ vựng của sách cho Anki (theo `docs/templates/vocabulary.md`).

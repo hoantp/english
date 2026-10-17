@@ -1,19 +1,21 @@
 ---
 title: Lộ trình tiếng Anh từ Zero đến thành thạo trong công việc
 type: roadmap
-level: A1 -> B2-work
+level: B1 -> B2-work
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-17
 status: active
 ---
 
-# Lộ trình tiếng Anh từ Zero đến thành thạo trong công việc (khoảng 12 tháng)
+# Lộ trình tiếng Anh đến thành thạo trong công việc (bản gốc, khoảng 12 tháng)
 
-> **Lưu ý:** bản này tính cho 12 giờ học mỗi tuần. Thực tế có khoảng 7 giờ mỗi tuần, tự học, nên mốc thời gian thực tế (khoảng 20 tháng), lịch học và cột mốc test nằm trong [schedule.md](schedule.md). Từ 2026-10-16: mục tiêu là **tiếng Anh làm việc thành thạo (CEFR B2 vững, đủ 4 kỹ năng đồng đều)**, không còn nhắm IELTS 6.0. Nếu mâu thuẫn thì theo `schedule.md`.
+> **Cập nhật 2026-10-17:** người học xuất phát từ **khoảng B1**, không phải Zero. Lộ trình hiện hành (≈ 70 tuần, giai đoạn 0 "Sửa nền" thay A1/A2) nằm trong [schedule.md](schedule.md); các mục "Giai đoạn 0" và "Giai đoạn 1" bên dưới là bản gốc cho người học từ Zero, giữ để tham khảo. Nếu mâu thuẫn thì theo `schedule.md`.
+
+> **Lưu ý (bản gốc):** bản này tính cho 12 giờ học mỗi tuần. Thực tế có khoảng 7 giờ mỗi tuần, tự học, nên mốc thời gian thực tế (khoảng 20 tháng), lịch học và cột mốc test nằm trong [schedule.md](schedule.md). Từ 2026-10-16: mục tiêu là **tiếng Anh làm việc thành thạo (CEFR B2 vững, đủ 4 kỹ năng đồng đều)**, không còn nhắm IELTS 6.0. Nếu mâu thuẫn thì theo `schedule.md`.
 
 **Giả định:** học khoảng 2 giờ mỗi ngày, 6 ngày mỗi tuần, tổng khoảng 600–700 giờ. Thành thạo trong công việc ở đây là CEFR B2 vững (tham chiếu: IELTS 6.0 ≈ B2 thấp). Nếu chỉ học 1 giờ mỗi ngày, nhân đôi thời gian (khoảng 18–24 tháng).
 
-## Tổng quan 4 giai đoạn
+## Tổng quan 4 giai đoạn (bản gốc cho người học từ Zero)
 
 | Giai đoạn | Thời gian | Trình độ | Mục tiêu |
 |---|---|---|---|

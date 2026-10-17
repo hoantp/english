@@ -3,12 +3,14 @@ title: Tuần 5 - Thức ăn, đồ uống, hiện tại tiếp diễn, nối â
 type: roadmap
 level: A1
 created: 2026-10-16
-updated: 2026-10-16
-status: draft
+updated: 2026-10-17
+status: archived
 tags: [phase-0, week-5]
 ---
 
 # Tuần 5 (16/11–22/11/2026)
+
+> **Lưu trữ (2026-10-17):** tài liệu A1 cũ, không còn trong lộ trình. Lộ trình hiện hành: [schedule.md](../schedule.md).
 
 ## Mục tiêu
 

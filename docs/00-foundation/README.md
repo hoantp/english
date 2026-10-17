@@ -1,49 +1,60 @@
 ---
-title: Giai đoạn 0 - Nền tảng A1 (tháng 1–3)
+title: Giai đoạn 0 - Sửa nền, xuất phát từ B1 (tuần 1–12)
 type: roadmap
-level: A1
+level: B1
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-17
 status: active
-tags: [phase-0, a1]
+tags: [phase-0, b1, articles, tenses, oxford-3000]
 ---
 
-# Giai đoạn 0 - Nền tảng A1 (tháng 1–3)
+# Giai đoạn 0 - Sửa nền (tuần 1–12, 2026-10-19 đến 2027-01-10)
+
+> Thay thế bản A1 cũ (IPA từ đầu, to be, v.v.). Người học đã ở khoảng B1 nên giai đoạn này tập trung sửa 3 điểm yếu: mạo từ và thì, vốn từ cơ bản, nói vấp. Xem [schedule.md](../schedule.md).
 
 ## Mục tiêu
 
-Cuối giai đoạn (khoảng 12 tuần), bạn đạt:
+Cuối tuần 12 bạn đạt (kiểm tra bằng placement test lần hai và log):
 
-- Đọc đúng 44 âm IPA, phát âm được phần lớn từ trong 800 từ đầu mà không phải tra.
-- Biết 800 từ thông dụng nhất (A1), nhớ được ≥ 80% khi ôn.
-- Dùng được: to be, đại từ, mạo từ, số nhiều, hiện tại đơn, hiện tại tiếp diễn, there is/are, have/has, can/must, câu hỏi và phủ định cơ bản.
-- Tự giới thiệu bản thân, gia đình, công việc, thói quen hằng ngày trong 1 phút.
-- Chép chính tả đúng ≥ 70% hội thoại A1 chậm.
-- Đọc hiểu đoạn A1 70–90 từ, đúng ≥ 75% câu hỏi; viết 6–8 câu về bản thân, gia đình, một ngày, ngôi nhà với ≤ 2 lỗi sau khi sửa.
-- Đạt ≥ 70% ở bài test A1 (British Council / Cambridge placement).
+- Đoạn viết 8 câu về công việc có ≤ 3 lỗi mạo từ/thì (so với đường cơ sở đo ở tuần 1).
+- Nói 1 phút về chủ đề quen thuộc, khựng quá 3 giây không quá 3 lần.
+- Biết ≥ 80% từ Oxford 3000 mức A1–A2 (theo kết quả Anki); đã lọc và lập kế hoạch cho mức B1 ([oxford-3000-method.md](../resources/oxford-3000-method.md)).
+- Dùng chắc: mạo từ, hiện tại đơn/tiếp diễn, hiện tại hoàn thành, quá khứ đơn, các cấu trúc tương lai cơ bản, modal verbs.
+- Chép chính tả đúng ≥ 80% đoạn hội thoại B1 chậm; đọc hiểu bài B1 ngắn, đúng ≥ 75% câu hỏi.
+- Placement test lần hai cho kết quả B1 (không kỹ năng nào dưới mức B1 thấp). TODO: xác minh thang điểm test đã chọn.
 
 ## Ngày bắt đầu
 
-**Thứ Hai 2026-10-19** (tuần 1). Lịch tuần: xem [schedule.md](../schedule.md).
+**Thứ Hai 2026-10-19** (tuần 1). Lịch tuần: [schedule.md](../schedule.md).
 
 ## Kế hoạch 12 tuần
 
-Tuần 1–6 đã soạn chi tiết (bên dưới), cộng buổi sáng thứ Hai 30/11. Tuần 7–16 sẽ soạn khi người học báo cáo xong tuần 6, dựa trên kết quả và lỗi trong log, và thêm nội dung "phỏng vấn sinh tồn" theo [interview-plan.md](../interview-plan.md).
+Tuần 1–2 đã soạn chi tiết. Tuần 3–12 soạn khi người học báo cáo xong tuần trước, dựa trên log lỗi.
 
-| Tuần | Phát âm | Ngữ pháp | Từ vựng (25 từ/tuần) | File |
+| Tuần | Ngữ pháp trọng tâm | Nói | Từ vựng (Oxford) | File |
 |---|---|---|---|---|
-| 1 | Nguyên âm ngắn/dài | to be | Chào hỏi, thông tin cá nhân | [week-01](week-01.md) |
-| 2 | Nguyên âm đôi, phụ âm /p b t d k g/ | Đại từ, mạo từ, số nhiều, this/that | Gia đình, đồ vật | [week-02](week-02.md) |
-| 3 | Phụ âm xát, âm cuối -s | Hiện tại đơn (khẳng định, phủ định) | Thói quen hằng ngày | [week-03](week-03.md) |
-| 4 | Phụ âm còn lại, trọng âm từ | Hiện tại đơn (câu hỏi), there is/are, have/has | Nhà cửa, địa điểm | [week-04](week-04.md) |
-| 5 | Nối âm | Hiện tại tiếp diễn | Thức ăn, đồ uống | [week-05](week-05.md) |
-| 6 | Ngữ điệu câu | can/can't, must/mustn't | Mua sắm | [week-06](week-06.md) |
-| 7–8 | Nhịp câu, trọng âm câu | So sánh cơ bản, ôn tính từ sở hữu | Thời tiết, cơ thể | TODO |
-| 9–12 | Ôn phát âm, nhịp câu | Quá khứ đơn (to be, động từ thường), ôn tổng | Du lịch, sức khỏe, thời gian | TODO |
+| 1 | Mạo từ a/an/the/Ø | Câu ngắn, câu đệm; đường cơ sở | Lọc từ A1–A2 | [week-01](week-01.md) |
+| 2 | Mạo từ (đếm được/không đếm được) + ôn hiện tại đơn | Cụm cố định, 4/3/2 lần 1 | Học từ A1–A2 đợt 1 | [week-02](week-02.md) |
+| 3 | Hiện tại đơn và tiếp diễn ([07 §1–2](../grammar/07-present-tenses-overview.md)) | Mô tả công việc hằng ngày | TODO | TODO |
+| 4 | Quá khứ đơn | Kể việc hôm qua | TODO | TODO |
+| 5 | Hiện tại hoàn thành ([07 §3](../grammar/07-present-tenses-overview.md)) | Kinh nghiệm làm việc | TODO | TODO |
+| 6 | Hiện tại hoàn thành và quá khứ đơn | Kể dự án | TODO | TODO |
+| 7 | Hiện tại hoàn thành tiếp diễn ([07 §4](../grammar/07-present-tenses-overview.md)) | Giải thích tình trạng công việc | TODO | TODO |
+| 8 | Tương lai (will / going to / hiện tại tiếp diễn) | Kế hoạch tuần | TODO | TODO |
+| 9–10 | Modal verbs | Đề nghị, xin phép, lời khuyên | TODO | TODO |
+| 11–12 | Ôn tổng theo log lỗi; so sánh; câu điều kiện loại 0/1 | Ôn, test nói | TODO | TODO |
+
+Giáo trình: bộ Destination B1 dùng được ngay (xem [books.md](../resources/books.md)), kết hợp tài liệu tự soạn trong `docs/grammar/`. TODO: ánh xạ bài Destination B1 vào từng tuần sau khi có mục lục.
+
+Phần "phỏng vấn sinh tồn" ([interview-plan.md](../interview-plan.md)) giữ tùy chọn, tối đa 15' mỗi tuần, bỏ nếu quá tải.
 
 ## Tài liệu của giai đoạn
 
-- [Bảng IPA](ipa.md)
-- Ngữ pháp: [to be](../grammar/01-to-be.md), [đại từ, mạo từ, số nhiều](../grammar/02-pronouns-articles-plurals.md), [hiện tại đơn](../grammar/03-present-simple.md), [there is/are, have/has](../grammar/04-there-is-are-have-has.md), [hiện tại tiếp diễn](../grammar/05-present-continuous.md), [can/must](../grammar/06-can-must.md)
-- Từ vựng: [tuần 1](../vocabulary/a1-week-01.md), [tuần 2](../vocabulary/a1-week-02.md), [tuần 3](../vocabulary/a1-week-03.md), [tuần 4](../vocabulary/a1-week-04.md), [tuần 5](../vocabulary/a1-week-05.md), [tuần 6](../vocabulary/a1-week-06.md)
-- Sách và nguồn: [books.md](../resources/books.md)
+- Phương pháp: [oxford-3000-method.md](../resources/oxford-3000-method.md), [weak-points-plan.md](../resources/weak-points-plan.md).
+- Ngữ pháp mới: [mạo từ](../grammar/08-articles-a-an-the.md), [bốn thì hiện tại](../grammar/07-present-tenses-overview.md).
+- Ngữ pháp A1 dùng để tra cứu khi cần: [to be](../grammar/01-to-be.md), [đại từ, mạo từ, số nhiều](../grammar/02-pronouns-articles-plurals.md), [hiện tại đơn](../grammar/03-present-simple.md), [there is/are, have/has](../grammar/04-there-is-are-have-has.md), [hiện tại tiếp diễn](../grammar/05-present-continuous.md), [can/must](../grammar/06-can-must.md).
+- [Bảng IPA](ipa.md): dùng tra phát âm khi gặp từ mới, không học từ đầu.
+
+## Tài liệu A1 cũ (lưu trữ)
+
+Tuần 3–6 A1 và từ vựng A1 tuần 1–6 đã **lưu trữ** (`status: archived`), giữ để tham khảo, không học theo: [tuần 3](week-03.md), [tuần 4](week-04.md), [tuần 5](week-05.md), [tuần 6](week-06.md).
