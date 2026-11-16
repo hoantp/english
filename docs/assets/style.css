@@ -41,3 +41,28 @@ hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
 .flow .fc-t{stroke:none;font-weight:700;font-size:14px;fill:var(--fg)}
 .flow .fc-t2{stroke:none;font-size:12px;font-weight:400;fill:var(--muted)}
 .flow .fc-lbl{font-size:12px;fill:var(--fg);text-anchor:middle}
+
+/* ===== dg1-: sơ đồ cấu trúc câu (grammar 01-03) — chỉ thêm, không sửa phần trên ===== */
+.flow .dg1-s{fill:#0969da;fill-opacity:.16;stroke:#0969da;stroke-width:2}
+.flow .dg1-v{fill:#1a7f37;fill-opacity:.22;stroke:#1a7f37;stroke-width:2}
+.flow .dg1-x{fill:#c2570c;fill-opacity:.16;stroke:#c2570c;stroke-width:2}
+.flow .dg1-n{fill:#cf222e;fill-opacity:.14;stroke:#cf222e;stroke-width:2}
+.flow .dg1-a{fill:#8250df;fill-opacity:.16;stroke:#8250df;stroke-width:2}
+.flow .dg1-g{fill:#6e7781;fill-opacity:.14;stroke:#6e7781;stroke-width:2}
+.flow .dg1-sign{stroke:none;font-size:20px;font-weight:700;fill:var(--muted)}
+.flow .dg1-plus{stroke:none;font-size:16px;font-weight:700;fill:var(--muted)}
+.flow .dg1-ex{stroke:none;font-size:13px;font-style:italic;fill:var(--fg)}
+.flow .dg1-h{stroke:none;font-size:12px;font-weight:700;letter-spacing:.06em;fill:var(--muted)}
+.flow .dg1-bar{fill:#0969da;fill-opacity:.2}
+/* dg2: shared diagram classes (formula chips, scales, cards) - used with class="timeline flow" */
+.timeline .dg2-b{fill:#0969da;fill-opacity:.15;stroke:#0969da;stroke-width:2}
+.timeline .dg2-g{fill:#1a7f37;fill-opacity:.18;stroke:#1a7f37;stroke-width:2}
+.timeline .dg2-p{fill:#8250df;fill-opacity:.15;stroke:#8250df;stroke-width:2}
+.timeline .dg2-o{fill:#c2570c;fill-opacity:.16;stroke:#c2570c;stroke-width:2}
+.timeline .dg2-r{fill:#cf222e;fill-opacity:.14;stroke:#cf222e;stroke-width:2}
+.timeline .dg2-t{stroke:none;font-weight:700;font-size:14px;fill:var(--fg);text-anchor:middle}
+.timeline .dg2-t2{stroke:none;font-size:12px;fill:var(--muted)}
+.timeline .dg2-lab{stroke:none;font-weight:700;font-size:13px;fill:var(--muted)}
+.timeline .dg2-red{stroke:none;font-weight:700;font-size:13px;fill:#cf222e}
+.timeline .dg2-grn{stroke:none;font-weight:700;font-size:13px;fill:#1a7f37}
+.timeline .dg2-line{stroke:var(--tl-axis);stroke-width:2;fill:none}
